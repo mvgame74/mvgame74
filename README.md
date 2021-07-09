@@ -5,6 +5,7 @@
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -35,5 +36,9 @@ Here are some ideas to get you started:
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://dev.to/tolentinoel/customized-tech-stack-badges-for-your-profile-1dpg
 
 -->

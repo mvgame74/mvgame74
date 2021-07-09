@@ -37,8 +37,5 @@ Here are some ideas to get you started:
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://dev.to/envoy_/150-badges-for-github-pnk
-https://dev.to/tolentinoel/customized-tech-stack-badges-for-your-profile-1dpg
 
 -->

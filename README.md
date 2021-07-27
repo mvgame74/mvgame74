@@ -1,7 +1,7 @@
 ### Hi there, I'm Maria :raising_hand_woman:👋
 - 😄 Pronouns: she/her
 - 🌱 I’m currently job hunting after finishing my bootcamp course in Makers Academy, preparing to be a junior software developer
-- 📫 How to reach me: you can send me an email [here](mvalerogonzalez@gmail.com)
+
 
 ## 🔧 Technologies & Tools
 
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 📫 How to reach me: you can send me an email [here](mvalerogonzalez@gmail.com)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->

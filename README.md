@@ -1,5 +1,5 @@
 ### Hi there, I'm Maria :raising_hand_woman:👋
-- 🌱 I’m currently job hunting after finishing mt bootcamp course in Makers Academy, preparing to be a junior software developer
+- 🌱 I’m currently job hunting after finishing my bootcamp course in Makers Academy, preparing to be a junior software developer
 
 ## 🔧 Technologies & Tools
 

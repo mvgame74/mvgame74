@@ -19,7 +19,7 @@ My previous work experience in the airline industry, managemement and retail mea
 
 </div>
 
-# Skills ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+# Skills 
 
 ### Continuous learning
 I enjoy learning new things and building upon that knowledge, and fortunately for me, in software development, you need to be constantly improving and evolving,it keeps your brain switched on and it's personally very satisfying.
@@ -29,7 +29,7 @@ I have worked many years in process improvement procedures, from gap analysis to
 ### Interpersonal skills
 Teamwork
 communication
-### Technical skills
+### Technical skills ![](https://img.shields.io/badge/Code-TDD-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 During my time in Makers Bootcamp I learned to develop problem solving beyond just working with one language, relaying in TDD to ensure the code I'm writing is the one I need and works continuously
 
 <a href="https://github.com/mvgame74/mvgame74">

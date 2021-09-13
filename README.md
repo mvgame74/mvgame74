@@ -6,7 +6,7 @@ My curiosity for software development led me to do a software development bootca
 
 Once I arrived to the UK, it was clear to me that, this previous training was already obsolete, so after a stint working in retail, I decided to re-start a career in software development because I loved the feeling of going to work to solve a "puzzle" every day.
 
-My previous work experience in the airline industry, managemement and retail means I have a wealth of transferable skills that I can apply and continue developing in any future projects.
+My previous work experience in the airline industry, management and retail means I have a wealth of transferable skills that I can apply and continue developing in any future projects.
 
 <div align="center">
 
@@ -30,16 +30,17 @@ My previous work experience in the airline industry, managemement and retail mea
 # Skills 
 
 ### Continuous learning
-I enjoy learning new things and building upon that knowledge, and fortunately for me, in software development, you need to be constantly improving and evolving,it keeps your brain switched on and it's personally very satisfying.
-My experience training during these times has taught me to adapt to any circumstances, to work autonomously and rely on my own skills to look for a soluction and investigate by my own means.
+I enjoy learning new things and building upon that knowledge, and fortunately for me, in software development, you need to be constantly improving and evolving, it keeps your brain switched on and it's personally very satisfying.
+My experience training during these times has taught me to adapt to any circumstances, to work autonomously and rely on my own skills to look for a solution and investigate by my own means.
 ### Methodical & detail oriented
 I have worked many years in process improvement procedures, from gap analysis to streamlining of processes.
 ### Interpersonal skills
 Teamwork
 communication
-### Technical skills ![](https://img.shields.io/badge/Code-TDD-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+### Technical skills 
 During my time in Makers Bootcamp I learned to develop problem solving beyond just working with one language, relaying in TDD to ensure the code I'm writing is the one I need and works continuously
 
+![](https://img.shields.io/badge/Code-TDD-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 <a href="https://github.com/mvgame74/mvgame74">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvgame74&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maria's GitHub Stats" />
 </a>

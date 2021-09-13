@@ -13,10 +13,10 @@ But what I was most credited in my previous jobs was for my management skills: i
 
 [Skills](##🔧-Technologies-&-Tools) |
 [Stats ](##GitHub-Stats) |
-[Projects ](##Projects) |
-[Employment ](##Work-Experience) |
-[Education ](##Education) |
-[Interests](##Interests) |
+[Projects ](#Projects) |
+[Employment ](#Work-Experience) |
+[Education ](#Education) |
+[Interests](#Interests) |
 [Contact](###-Where-can-you-find-me)
 
 </div>
@@ -36,22 +36,22 @@ But what I was most credited in my previous jobs was for my management skills: i
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvgame74&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-## Projects
+# Projects
 
 | Project       | Description                  | Technologies   | Testing   |
 |--|--|--|--|
-| [Hang-Git](https://github.com/cms718/hang-git) | My final project at Makers. Hang-Git is a game designe to help students learn Git commangs by playing Hangman. | React, MondoDb, CircleCI, Heroku | React testing |
+| [Hang-Git](https://github.com/cms718/hang-git) | My final project at Makers. Hang-Git is a game designed to help students learn Git commands by playing Hangman. | React, MondoDb, CircleCI, Heroku | React testing |
 | [Bank Tech Test](https://github.com/mvgame74/Bank-tech-test) | A simple banking program I made in order to practice OOP, TDD, and programming fluency. | Javascript | Jasmine |
 | [Python Bot](https://github.com/mvgame74/python_bot) | Small Bot exercise to make a bot that could send info and communicate through Telegram  | Python | Django |
 
-## Work Experience
+# Work Experience
 - 2016 to 2021 Decathlon - Working in sports retail, started as Sports Advisor to Department Manager, then to Operations Manager. 
 - 2006 to 2015 IATA - Remittance & Settlement Management, from Assistant Manager Europe to Regional Manager in the Middle East & Africa
 - 2002 to 2006 Amadeus - Markets Department Support
 
-## Education
+# Education
 
-## Interests
+# Interests
 
 ### Where can you find me:
 

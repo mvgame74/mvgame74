@@ -28,7 +28,7 @@ My previous work experience in the airline industry, management and retail means
 
 
 # Skills 
-
+<!--
 ### Continuous learning
 I enjoy learning new things and building upon that knowledge, and fortunately for me, in software development, you need to be constantly improving and evolving, it keeps your brain switched on and it's personally very satisfying.
 My experience training during these times has taught me to adapt to any circumstances, to work autonomously and rely on my own skills to look for a solution and investigate by my own means.
@@ -39,6 +39,7 @@ Teamwork
 communication
 ### Technical skills 
 During my time in Makers Bootcamp I learned to develop problem solving beyond just working with one language, relaying in TDD to ensure the code I'm writing is the one I need and works continuously
+-->
 
 ![](https://img.shields.io/badge/Code-TDD-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 <a href="https://github.com/mvgame74/mvgame74">

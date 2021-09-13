@@ -2,6 +2,7 @@
 - 😄 Pronouns: she/her
 - 🌱 I’m currently job hunting after finishing my bootcamp course in Makers Academy, preparing to be a junior software developer
 
+I trained originally in software development Bootcamp (Fycsa, dependant on Alcatel) in 2001 in Spain (based on C, extending to HTML, SQL, Javascript, and a bit of Java), and that was the start of my career in my country. Once I arrived in the UK I understood this previous training was already obsolete, so after a stint working in retail, I decided to re-start a career in software development. I loved the feeling of going to work to solve "a puzzle" every day.
 
 ## 🔧 Technologies & Tools
 

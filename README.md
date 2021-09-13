@@ -7,7 +7,6 @@ I trained originally in software development Bootcamp (Fycsa, dependant on Alcat
 I enjoy learning, and in software development, you are constantly improving and evolving. That keeps your brain switched on and it´s personally very satisfying.
 
 I think my brain works as a sort of a database, so I always found a certain affinity to working with data, the simplicity of well-thought tables, connections, queries, and the best way to present information (which heavily influences decision making afterward).
-But what I was most credited in my previous jobs was for my management skills: it's not something that was natural for me, but I grew to love it, especially the part of aiding my team to grow and develop themselves. The best compliment I ever received when they left their positions, or I left my job, is that they would love to work for me again, which makes me very proud.
 
 <div align="center">
 
@@ -51,15 +50,35 @@ But what I was most credited in my previous jobs was for my management skills: i
 
 # Education
 
+
+### Makers (March 2021 - July 2021)
+
+OOP, TDD, MVC
+Ruby, Rails, Javascript, Node.js, React, PostgreSQL, MongoDb
+Rspec, Jasmine
+HTML, CSS
+
+### Fycsa (2001)
+
+Html, Java, Javascript, SQL
+
+### Colex (1998-1999)
+Law Practice Postgraduate: Civil, Penal, Taxes, Administrative
+
+### Universidad Complutense de Madrid (1992-1998)
+Law Graduate
+
 # Interests
+
+Keen hiker, love to go outdoors to clear my head when I spend too much time in front of the computer
 
 ### Where can you find me:
 
-LinkedIn: [Maria Valero](https://www.linkedin.com/in/maria-valero-b454aa1/)
+<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> LinkedIn: [Maria Valero](https://www.linkedin.com/in/maria-valero-b454aa1/)
 
-Codewars: [mvgame](https://www.codewars.com/users/mvgame)
+<img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> Codewars: [mvgame](https://www.codewars.com/users/mvgame)
 
-Email: mvalerogonzalez@gmail.com
+<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> Email: mvalerogonzalez@gmail.com
 <!--
 **mvgame74/mvgame74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,9 +2,11 @@
 - 😄 Pronouns: she/her
 - 🌱 I’m currently job hunting after finishing my bootcamp course in Makers Academy, looking for opportunities to work as a junior software developer.
 
-My curiosity for  software development moved me to train originally in software development Bootcamp (Fycsa, dependant on Alcatel) in 2001 in Spain (based on C, extending to HTML, SQL, Javascript, and a bit of Java), and that was the start of my career in my country. Once I arrived in the UK I understood this previous training was already obsolete, so after a stint working in retail, I decided to re-start a career in software development because I loved the feeling of going to work to solve a "puzzle" every day.
+My curiosity for software development led me to do a software development bootcamp back in 2001 Spain (Fycsa, an Alcatel subsidiary), based on C, extending to HTML, SQL, Javascript, and a bit of Java, and that was the start of my career back in Spain.
 
-My previous work experience means I have a wealth of transferable skills that i can apply and continue developing un any other project. I enjoy learning, and in software development, you are constantly improving and evolving. That keeps your brain switched on and it's personally very satisfying.
+Once I arrived to the UK, it was clear to me that, this previous training was already obsolete, so after a stint working in retail, I decided to re-start a career in software development because I loved the feeling of going to work to solve a "puzzle" every day.
+
+My previous work experience in the airline industry, managemement and retail means I have a wealth of transferable skills that I can apply and continue developing in any future projects.
 
 <div align="center">
 
@@ -17,15 +19,18 @@ My previous work experience means I have a wealth of transferable skills that i 
 
 </div>
 
-## Skills ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+# Skills ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ### Continuous learning
-Adaptability
-autonomously
+I enjoy learning new things and building upon that knowledge, and fortunately for me, in software development, you need to be constantly improving and evolving,it keeps your brain switched on and it's personally very satisfying.
+My experience training during these times has taught me to adapt to any circumstances, to work autonomously and rely on my own skills to look for a soluction and investigate by my own means.
 ### Methodical & detail oriented
-process improvement
-### Teamwork
+I have worked many years in process improvement procedures, from gap analysis to streamlining of processes.
+### Interpersonal skills
+Teamwork
 communication
+### Technical skills
+During my time in Makers Bootcamp I learned to develop problem solving beyond just working with one language, relaying in TDD to ensure the code I'm writing is the one I need and works continuously
 
 <a href="https://github.com/mvgame74/mvgame74">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvgame74&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maria's GitHub Stats" />
@@ -44,11 +49,10 @@ communication
 
 # Work Experience
 - 2016 to 2021 **DECATHLON** - Working in sports retail, started as Sports Advisor to Department Manager, then to Operations Manager: I developed my skills in Customer Service, teamwork under pressure and organisation on a priorities-changing environment.
-- 2006 to 2015 **IATA** - Remittance & Settlement Management, from Assistant Manager Europe to Regional Manager in the Middle East & Africa: Developed a MSAccess database to manage collections and settlements between Travel Agencies and Airlines, that was later on the base for the tool used in all the company.
+- 2006 to 2015 **IATA** - Remittance & Settlement Management, from Assistant Manager in Madrid to Manager in Stockholm, Senior Manager in the Europe Hub and finally Regional Manager in the Middle East & Africa: Developed a MSAccess database to manage collections and settlements between Travel Agencies and Airlines, that was later on the base for the tool used in all the company.
 - 2002 to 2006 **AMADEUS** - Markets Department Support: Maintenance and update of a Business Sales segmentation tool in MSAccess that run automatic processes for information management.
 
 # Education
-
 
 ### Makers (March 2021 - July 2021)
 OOP, TDD, MVC, Ruby, Rails, Javascript, Node.js, React, PostgreSQL, MongoDb, Rspec, Jasmine,HTML, CSS
@@ -96,5 +100,3 @@ Here are some ideas to get you started:
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 
-
--->

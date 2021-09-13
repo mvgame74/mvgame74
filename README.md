@@ -20,11 +20,11 @@ My previous work experience in the airline industry, managemement and retail mea
 </div>
 # Projects
 
-| Project       | Description                  | Technologies   | Testing   |
-|--|--|--|--|
-| [Hang-Git](https://github.com/cms718/hang-git) | My final project at Makers. Hang-Git is a game designed to help students learn Git commands by playing Hangman. | React, MondoDb, CircleCI, Heroku | React testing |
-| [Bank Tech Test](https://github.com/mvgame74/Bank-tech-test) | A simple banking program I made in order to practice OOP, TDD, and programming fluency. | Javascript | Jasmine |
-| [Python Bot](https://github.com/mvgame74/python_bot) | Small Bot exercise to make a bot that could send info and communicate through Telegram  | Python | Django |
+| Project       | Description                  | Technologies   |
+|--|--|--|
+| [Hang-Git](https://github.com/cms718/hang-git) | My final project at Makers. Hang-Git is a game designed to help students learn Git commands by playing Hangman. | React, MondoDb, CircleCI, Heroku, React testing |
+| [Bank Tech Test](https://github.com/mvgame74/Bank-tech-test) | A simple banking program I made in order to practice OOP, TDD, and programming fluency. | Javascript, Jasmine |
+| [Python Bot](https://github.com/mvgame74/python_bot) | Small Bot exercise to make a bot that could send info and communicate through Telegram  | Python |
 
 # Work Experience
 - 2016 to 2021 **DECATHLON** - Working in sports retail, started as Sports Advisor to Department Manager, then to Operations Manager: I developed my skills in Customer Service, teamwork under pressure and organisation on a priorities-changing environment.

@@ -20,11 +20,10 @@ I think my brain works as a sort of a database, so I always found a certain affi
 
 </div>
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+## 🔧 Technologies & Tools ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -52,18 +51,13 @@ I think my brain works as a sort of a database, so I always found a certain affi
 
 
 ### Makers (March 2021 - July 2021)
-
-OOP, TDD, MVC
-Ruby, Rails, Javascript, Node.js, React, PostgreSQL, MongoDb
-Rspec, Jasmine
-HTML, CSS
+OOP, TDD, MVC, Ruby, Rails, Javascript, Node.js, React, PostgreSQL, MongoDb, Rspec, Jasmine,HTML, CSS
 
 ### Fycsa (2001)
-
 Html, Java, Javascript, SQL
 
 ### Colex (1998-1999)
-Law Practice Postgraduate: Civil, Penal, Taxes, Administrative
+Law Practice Postgraduate: Civil, Criminal, Taxes, Administrative
 
 ### Universidad Complutense de Madrid (1992-1998)
 Law Graduate

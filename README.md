@@ -4,7 +4,7 @@
 
 My curiosity for  software development moved me to train originally in software development Bootcamp (Fycsa, dependant on Alcatel) in 2001 in Spain (based on C, extending to HTML, SQL, Javascript, and a bit of Java), and that was the start of my career in my country. Once I arrived in the UK I understood this previous training was already obsolete, so after a stint working in retail, I decided to re-start a career in software development because I loved the feeling of going to work to solve a "puzzle" every day.
 
-I enjoy learning, and in software development, you are constantly improving and evolving: that keeps your brain switched on and it's personally very satisfying.
+My previous work experience means I have a wealth of transferable skills that i can apply and continue developing un any other project. I enjoy learning, and in software development, you are constantly improving and evolving. That keeps your brain switched on and it's personally very satisfying.
 
 <div align="center">
 
@@ -19,6 +19,13 @@ I enjoy learning, and in software development, you are constantly improving and 
 
 ## Skills ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
+### Continuous learning
+Adaptability
+autonomously
+### Methodical & detail oriented
+process improvement
+### Teamwork
+communication
 
 <a href="https://github.com/mvgame74/mvgame74">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvgame74&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maria's GitHub Stats" />
@@ -61,9 +68,9 @@ Keen hiker, love to go outdoors to clear my head when I spend too much time in f
 
 # Contact:
 
-<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> LinkedIn: [Maria Valero](https://www.linkedin.com/in/maria-valero-b454aa1/){:target="_blank" rel="noopener"} for full CV
+<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> LinkedIn: [Maria Valero](https://www.linkedin.com/in/maria-valero-b454aa1/) for full CV
 
-<img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> Codewars: [mvgame](https://www.codewars.com/users/mvgame){:target="_blank" rel="noopener"}
+<img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> Codewars: [mvgame](https://www.codewars.com/users/mvgame)
 
 <img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> Email: mvalerogonzalez@gmail.com
 <!--
@@ -89,3 +96,5 @@ Here are some ideas to get you started:
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 
+
+-->

@@ -35,7 +35,9 @@ But what I was most credited in my previous jobs was for my management skills: i
 ## Location preference
 I prefer living in big cities, like London... I would be open to other big cities in Europe as well.
 
-Anything else
+### Where can you find me:
+
+Codewars
 
 <!--
 **mvgame74/mvgame74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

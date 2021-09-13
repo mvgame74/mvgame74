@@ -26,12 +26,6 @@ My previous work experience in the airline industry, managemement and retail mea
 | [Bank Tech Test](https://github.com/mvgame74/Bank-tech-test) | A simple banking program I made in order to practice OOP, TDD, and programming fluency. | Javascript, Jasmine |
 | [Python Bot](https://github.com/mvgame74/python_bot) | Small Bot exercise to make a bot that could send info and communicate through Telegram  | Python |
 
-# Work Experience
-- 2016 to 2021 **DECATHLON** - Working in sports retail, started as Sports Advisor to Department Manager, then to Operations Manager: I developed my skills in Customer Service, teamwork under pressure and organisation on a priorities-changing environment.
-- 2006 to 2015 **IATA** - Remittance & Settlement Management, from Assistant Manager in Madrid to Manager in Stockholm, Senior Manager in the Europe Hub and finally Regional Manager in the Middle East & Africa: Developed a MSAccess database to manage collections and settlements between Travel Agencies and Airlines, that was later on the base for the tool used in all the company.
-- 2002 to 2006 **AMADEUS** - Markets Department Support: Maintenance and update of a Business Sales segmentation tool in MSAccess that run automatic processes for information management.
-
-
 
 # Skills 
 
@@ -52,6 +46,11 @@ During my time in Makers Bootcamp I learned to develop problem solving beyond ju
 <a href="https://github.com/mvgame74/mvgame74">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvgame74&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+# Work Experience
+- 2016 to 2021 **DECATHLON** - Working in sports retail, started as Sports Advisor to Department Manager, then to Operations Manager: I developed my skills in Customer Service, teamwork under pressure and organisation on a priorities-changing environment.
+- 2006 to 2015 **IATA** - Remittance & Settlement Management, from Assistant Manager in Madrid to Manager in Stockholm, Senior Manager in the Europe Hub and finally Regional Manager in the Middle East & Africa: Developed a MSAccess database to manage collections and settlements between Travel Agencies and Airlines, that was later on the base for the tool used in all the company.
+- 2002 to 2006 **AMADEUS** - Markets Department Support: Maintenance and update of a Business Sales segmentation tool in MSAccess that run automatic processes for information management.
 
 # Education
 

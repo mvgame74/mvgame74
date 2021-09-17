@@ -28,35 +28,21 @@ My previous work experience in the airline industry, management and retail means
 
 
 # Skills 
+
+## Problem Solving
+When something does not work the way it should be, my focus goes inmediately to identify what's wrong and find the solution: in my job in IATA I was sent to Israel to check the situation of their account and procedded to do the reconciliation of collections and payments (the system varies from one country to another, so the task involved a lot of checks, contacting the banks and gathering the correct info, plus perform the tasks needed to correct the issues), because the person they hired just walked away. I think problem solving is a actitude, no matter if it is in IT or in real life.
+
+## Love Learning
+I enjoy learning new things or broadening my knowledge. I think it's part of wanting to understand how things work, how can you do something in a certain way, and even understanding how other people would solve it that brought me back to programming: The idea of constantly learn something new and improve my skills. My experience training during these times has taught me to adapt to any circumstances, to work autonomously and rely on my own skills to look for a solution and investigate by my own means.
+
+## Delivery
+I take resposability for any task I take, to do my best and to fullfill my commitments. In my previous job in IATA we have very strict lines of timing for payments, with very little of margin for error, and the assurance of 100% done on time was my personal badge of honor, even working with systems as unreliable as Middle East and Africa.
+
+## Teamleading
+My experience as a manager for almost a decade has brought me from being a "reluctant manager" to being one of the tasks I enjoy the most: The mix of bringing the best out of your team and help them grow to the best potential, so the team can make the best contribution possible to the project is something that to me feels like "I made this work", through  providing a clear perspective and good communication.
+
 <!--
 
-## Problem Solving 
-
-
-Your objective is to solve problems. Any breakdowns are normally demotivating to the majority of people, but not for you. At the contrary, when something does not work the way it should be, it provides you an opportunity to analyze symptoms of a problem, identify what's wrong and find the solution. In other words, you are a great problem solver. What makes you particularly special is that instead of abandoning - your goal is to restore something to its true glory. In a team, everyone knows you as a person who does not shy away from a problem, but actually fixes things to their normal functioning.
-
-PHILOMATH
-Your objective is to learn new things. Due to your love of learning people tend to say you are a very curious person. You like to experiment with different styles of learning as well - in the end, there is something to learn from that as well, right? As it's the processes itself that excite you, you are not necessarily interested in becoming a subject matter expert. Instead you prefer learning something fast and then shift to a new thing to learn. Thanks to this strength, you learn very fast and thrive in short projects and dynamically changing environments. Needless to say, you will always be the one to contribute with new knowledge to your team as well.
-
-DELIVERER
-Your objective is to take responsibility. If there is a person who is emotionally bound to follow through on all promises - then it's you. Your strong ethical principles do not let you to simply write missteps off on excuses and rationalizations. It holds true no matter how small or large is the issue you are dealing with. Your name and reputation depend on you being responsible for your commitments. That's why people love to have you in their team. When assigning new responsibilities, they look at you first. They are 100% sure that what'll get on your desk - will get done no matter what.
-
-FOCUS EXPERT
-Your objective is to focus on the most important things. To keep the focus you need something to focus on - therefore, weekly, monthly, annual goals are your biggest friends. Goals also help you to filter out what is important and what is not. You ask yourself every day if what you are doing brings you closer to your destination and lack of such a destination can create real confusion in your mind. As the result, the others see you as a very efficient and self-regulated person. It also makes you a very valuable team member. If anyone starts to wander around exploring side avenues, you quickly bring them back to the main road and to the point.
-
-COMMANDER
-Your objective is to take charge and direct people. In any situation, you enjoy bringing yourself forward to lead the team. Moreover, you don't come empty handed - by that time your opinion and views are formed and you can't wait to align others with you. Contrary to others, in this process, you are not afraid of confrontation when presenting your views. At the contrary, you feel that the confrontation and the open discussion is the first step towards an agreement. People who have a clear vision and can take a stand for it always draw followers, so will you. If you also master listening to others, this strength will help you to be a good leader without fear of confrontation.
-
-### Continuous learning
-I enjoy learning new things and building upon that knowledge, and fortunately for me, in software development, you need to be constantly improving and evolving, it keeps your brain switched on and it's personally very satisfying.
-My experience training during these times has taught me to adapt to any circumstances, to work autonomously and rely on my own skills to look for a solution and investigate by my own means.
-### Methodical & detail oriented
-I have worked many years in process improvement procedures, from gap analysis to streamlining of processes.
-### Interpersonal skills
-Teamwork
-communication
-### Technical skills 
-During my time in Makers Bootcamp I learned to develop problem solving beyond just working with one language, relaying in TDD to ensure the code I'm writing is the one I need and works continuously
 -->
 
 ![](https://img.shields.io/badge/Code-TDD-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -68,9 +54,9 @@ During my time in Makers Bootcamp I learned to develop problem solving beyond ju
 </a>
 
 # Work Experience
-- 2016 to 2021 **DECATHLON** - Working in sports retail, started as Sports Advisor to Department Manager, then to Operations Manager: I developed my skills in Customer Service, teamwork under pressure and organisation on a priorities-changing environment.
-- 2006 to 2015 **IATA** - Remittance & Settlement Management, from Assistant Manager in Madrid to Manager in Stockholm, Senior Manager in the Europe Hub and finally Regional Manager in the Middle East & Africa: Developed a MSAccess database to manage collections and settlements between Travel Agencies and Airlines, that was later on the base for the tool used in all the company.
-- 2002 to 2006 **AMADEUS** - Markets Department Support: Maintenance and update of a Business Sales segmentation tool in MSAccess that run automatic processes for information management.
+- **DECATHLON** (2016 to 2021) - Working in sports retail, started as Sports Advisor to Department Manager, then to Operations Manager: I developed my skills in Customer Service, teamwork under pressure and organisation on a priorities-changing environment.
+- **IATA** (2006 to 2015)  - Remittance & Settlement Management, from Assistant Manager in Madrid to Manager in Stockholm, Senior Manager in the Europe Hub and finally Regional Manager in the Middle East & Africa: Developed a MSAccess database to manage collections and settlements between Travel Agencies and Airlines, that was later on the base for the tool used in all the company.
+- **AMADEUS** (2002 to 2006) - Markets Department Support: Maintenance and update of a Business Sales segmentation tool in MSAccess that run automatic processes for information management.
 
 # Education
 
@@ -92,7 +78,7 @@ Keen hiker, love to go outdoors to clear my head when I spend too much time in f
 
 # Contact:
 
-<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> LinkedIn: [Maria Valero](https://www.linkedin.com/in/maria-valero-b454aa1/) for full CV
+<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> LinkedIn: [Maria Valero](https://www.linkedin.com/in/maria-valero-b454aa1/) 
 
 <img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> Codewars: [mvgame](https://www.codewars.com/users/mvgame)
 

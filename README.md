@@ -29,6 +29,24 @@ My previous work experience in the airline industry, management and retail means
 
 # Skills 
 <!--
+
+## Problem Solving 
+
+
+Your objective is to solve problems. Any breakdowns are normally demotivating to the majority of people, but not for you. At the contrary, when something does not work the way it should be, it provides you an opportunity to analyze symptoms of a problem, identify what's wrong and find the solution. In other words, you are a great problem solver. What makes you particularly special is that instead of abandoning - your goal is to restore something to its true glory. In a team, everyone knows you as a person who does not shy away from a problem, but actually fixes things to their normal functioning.
+
+PHILOMATH
+Your objective is to learn new things. Due to your love of learning people tend to say you are a very curious person. You like to experiment with different styles of learning as well - in the end, there is something to learn from that as well, right? As it's the processes itself that excite you, you are not necessarily interested in becoming a subject matter expert. Instead you prefer learning something fast and then shift to a new thing to learn. Thanks to this strength, you learn very fast and thrive in short projects and dynamically changing environments. Needless to say, you will always be the one to contribute with new knowledge to your team as well.
+
+DELIVERER
+Your objective is to take responsibility. If there is a person who is emotionally bound to follow through on all promises - then it's you. Your strong ethical principles do not let you to simply write missteps off on excuses and rationalizations. It holds true no matter how small or large is the issue you are dealing with. Your name and reputation depend on you being responsible for your commitments. That's why people love to have you in their team. When assigning new responsibilities, they look at you first. They are 100% sure that what'll get on your desk - will get done no matter what.
+
+FOCUS EXPERT
+Your objective is to focus on the most important things. To keep the focus you need something to focus on - therefore, weekly, monthly, annual goals are your biggest friends. Goals also help you to filter out what is important and what is not. You ask yourself every day if what you are doing brings you closer to your destination and lack of such a destination can create real confusion in your mind. As the result, the others see you as a very efficient and self-regulated person. It also makes you a very valuable team member. If anyone starts to wander around exploring side avenues, you quickly bring them back to the main road and to the point.
+
+COMMANDER
+Your objective is to take charge and direct people. In any situation, you enjoy bringing yourself forward to lead the team. Moreover, you don't come empty handed - by that time your opinion and views are formed and you can't wait to align others with you. Contrary to others, in this process, you are not afraid of confrontation when presenting your views. At the contrary, you feel that the confrontation and the open discussion is the first step towards an agreement. People who have a clear vision and can take a stand for it always draw followers, so will you. If you also master listening to others, this strength will help you to be a good leader without fear of confrontation.
+
 ### Continuous learning
 I enjoy learning new things and building upon that knowledge, and fortunately for me, in software development, you need to be constantly improving and evolving, it keeps your brain switched on and it's personally very satisfying.
 My experience training during these times has taught me to adapt to any circumstances, to work autonomously and rely on my own skills to look for a solution and investigate by my own means.

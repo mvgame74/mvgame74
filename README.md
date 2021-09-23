@@ -2,11 +2,11 @@
 - 😄 Pronouns: she/her
 - 🌱 I’m currently job hunting after finishing my bootcamp course in Makers Academy, looking for opportunities to work as a junior software developer.
 
-My curiosity for software development led me to do a software development bootcamp back in 2001 Spain (Fycsa, an Alcatel subsidiary), based on C, extending to HTML, SQL, Javascript, and a bit of Java, and that was the start of my career back in Spain.
+My curiosity for software development led me to do a software development Bootcamp back in 2001 in Spain (Fycsa, an Alcatel subsidiary), based on C, extending to HTML, SQL, Javascript, and a bit of Java, and that was the start of my career back in Spain.
 
-Once I arrived to the UK, it was clear to me that, this previous training was already obsolete, so after a stint working in retail, I decided to re-start a career in software development because I loved the feeling of going to work to solve a "puzzle" every day.
+Once I arrived in the UK, it was clear to me that, this previous training was already obsolete, so after a stint working in retail, I decided to re-start a career in software development because I loved the feeling of going to work to solve a "puzzle" every day.
 
-My previous work experience in the airline industry, management and retail means I have a wealth of transferable skills that I can apply and continue developing in any future projects.
+My previous work experience in the airline industry, management, and retail means I have a wealth of transferable skills that I can apply and continue developing in any future projects.
 
 <div align="center">
 

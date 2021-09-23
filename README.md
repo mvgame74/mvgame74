@@ -30,19 +30,19 @@ My previous work experience in the airline industry, management and retail means
 # Skills 
 
 ## Problem Solving
-When something does not work the way it should be, my focus goes inmediately to identify what's wrong and find the solution: in my job in IATA I was sent to Israel to check the situation of their account and procedded to do the reconciliation of collections and payments (the system varies from one country to another, so the task involved a lot of checks, contacting the banks and gathering the correct info, plus perform the tasks needed to correct the issues), because the person they hired just walked away. I think problem solving is a actitude, no matter if it is in IT or in real life.
+When something does not work the way it should be, my focus goes immediately to identify what's wrong and find the solution: in my job in IATA I was sent to Israel to check the situation of their account (the person they hired just walked away) and procedeed to do the reconciliation of collections and payments, identified the difference in the system there, and performed the tasks needed to correct the issues. Now in my experience in Makers, I faced new challenges not only with coding but with obstacles when setting up projects, researching libraries to use or patches needed for different versions of systems.
 
 ## Love Learning
 I enjoy learning new things or broadening my knowledge. I think it's part of wanting to understand how things work, how can you do something in a certain way, and even understanding how other people would solve it that brought me back to programming: The idea of constantly learn something new and improve my skills. My experience training during these times has taught me to adapt to any circumstances, to work autonomously and rely on my own skills to look for a solution and investigate by my own means.
 
 ## Delivery
-I take resposability for any task I take, to do my best and to fullfill my commitments. In my previous job in IATA we have very strict lines of timing for payments, with very little of margin for error, and the assurance of 100% done on time was my personal badge of honor, even working with systems as unreliable as Middle East and Africa.
+I take resposability for any task I take, to do my best and to fullfill my commitments. In my previous job in IATA we have very strict lines of timing for payments, with very little of margin for error, and the assurance of 100% done on time was my personal badge of honor, even working with systems as unreliable as Middle East and Africa. Also during the process of onboarding the new tool that was being developed we had to work with tight deadlines of delivery for results' calculations, as there was a combined effort between sites as separated as Montreal, Singapore and Geneva, so to ensure that any of the sites will not miss a deadline due to interdependencies, we had to make sure that each of the requirements were sent on the dot.
 
-## Teamleading
-My experience as a manager for almost a decade has brought me from being a "reluctant manager" to being one of the tasks I enjoy the most: The mix of bringing the best out of your team and help them grow to the best potential, so the team can make the best contribution possible to the project is something that to me feels like "I made this work", through  providing a clear perspective and good communication.
+## Team-leading
+My experience as a manager for almost a decade has brought me from being a "reluctant manager" to being one of the tasks I enjoy the most: The mix of bringing the best out of your team and help them grow to the best potential, so the team can make the best contribution possible to the project is something that to me feels like "I made this work", through  providing a clear perspective and good communication. When I arrived as Regional Manager to Amman, the team was demotivated, processes were not being followed and there was a disconnection on the way each of the team members were doing their job, making any collaboration almost impossible. I established a weekly One-On-One meetings with all the team for the first two months (to address any concerns, needs and support during the process of moving everyone into one system) and team meatings every month in which the team could discuss jointly how to solve any gaps in their workload.
 
 <!--
-
+NEEDED CONCRETE EXAMPLE ON LEADERSHIP
 -->
 
 ![](https://img.shields.io/badge/Code-TDD-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -61,7 +61,8 @@ My experience as a manager for almost a decade has brought me from being a "relu
 # Education
 
 ### Makers (March 2021 - July 2021)
-OOP, TDD, MVC, Ruby, Rails, Javascript, Node.js, React, PostgreSQL, MongoDb, Rspec, Jasmine,HTML, CSS
+OOP, TDD, MVC, Ruby, Rails, Javascript, Node.js, React, PostgreSQL, MongoDb, Rspec, Jasmine,HTML, CSS. 
+As the training we received at Makers was completely online, but still using Zoom for meetings, workshops and pair-coding, I can adapt to working on remote, though I am happy to work with others in person too.
 
 ### Fycsa (2001)
 Html, Java, Javascript, SQL

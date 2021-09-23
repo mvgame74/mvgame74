@@ -1,12 +1,13 @@
 ### Hi there, I'm Maria :raising_hand_woman:👋
 - 😄 Pronouns: she/her
-- 🌱 I’m currently job hunting after finishing my bootcamp course in Makers Academy, looking for opportunities to work as a junior software developer.
+- 🌱 After completing Makers Academy's Bootcamp course, I am currently job searching for opportunities as a junior software developer.
 
-My curiosity for software development led me to do a software development Bootcamp back in 2001 in Spain (Fycsa, an Alcatel subsidiary), based on C, extending to HTML, SQL, Javascript, and a bit of Java, and that was the start of my career back in Spain.
+I became curious about software development in 2001 when I studied at a Bootcamp in Spain (Fycsa, an Alcatel subsidiary), based on C, HTML, SQL, Javascript, and a bit of Java, which launched my career in Madrid.
 
-Once I arrived in the UK, it was clear to me that, this previous training was already obsolete, so after a stint working in retail, I decided to re-start a career in software development because I loved the feeling of going to work to solve a "puzzle" every day.
+As soon as I arrived in the UK, I realised this former training had already become obsolete, so after a stint in retail, I decided to begin my career again in software development because I liked the feeling of solving a "puzzle" every day.
 
-My previous work experience in the airline industry, management, and retail means I have a wealth of transferable skills that I can apply and continue developing in any future projects.
+I have a wide range of transferrable skills that I can apply and continue developing for any future project, based on my previous work experience in the airline industry, management, and retail.
+
 
 <div align="center">
 

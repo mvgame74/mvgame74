@@ -30,16 +30,21 @@ My previous work experience in the airline industry, management, and retail mean
 # Skills 
 
 ## Problem Solving
-When something does not work the way it should be, my focus goes immediately to identify what's wrong and find the solution: in my previous job in IATA I was sent to Israel to check the situation of their account (the person they hired just walked away) and proceeded to do the reconciliation of collections and payments, identified the difference in the system there, and performed the tasks needed to correct the issues. In my experience with Makers, I have faced new challenges not just with coding, but also in setting up projects, researching libraries to use, or patches needed for the different versions of systems, or connecting to different platforms so that I could carry through to development.
+When something does not work the way it should be, my focus goes immediately to identify what's wrong and find the fix: In my previous position with IATA I was sent to Israel to check the status of their account (the person they hired simply walked away) and resolved the differences in the system there, as well as performing the tasks to correct the problems. 
+
+In my experience with Makers, I have faced new challenges not just with coding, but also in setting up projects, researching libraries to use, or patches needed for the different versions of systems, or connecting to different platforms so that I could carry through to development.
 
 ## Love Learning
-Learning new things, being challenged, and seeking to understand how things work and how they can be done in a certain way attracts me to programming: To constantly learn something new and improve my skills. My experience training during these times taught me to be adaptable to all circumstances, to work autonomously, and to rely on my skills to find solutions and investigate by myself.
+Programming appeals to me because I like learning new things, being challenged, and trying to understand how things work and what they can do. Through my training during these times, I learned to be adaptable to all circumstances, to work independently, and to use my skills to find solutions and investigate on my own.
 
 ## Delivery
-I do my best at every task I take on, and I am accountable for my work. At IATA, we had very strict timelines for payments, with very little margin for error, and I was responsible for ensuring that everything was done on time even when working with systems. Also during the process of onboarding the new tool that was being developed we had to work with tight deadlines of delivery for results' calculations, as there was a combined effort between sites as separated as Montreal, Singapore, and Geneva, so to ensure that any of the sites will not miss a deadline due to interdependencies, we had to make sure that each of the requirements was sent on the dot.
+I am accountable for every task I undertake, and I do my best at it. We had very strict deadlines for payments at IATA, which left very little room for error, and I was responsible for ensuring that all payments were made on time even when working with systems. 
+
+Also during the process of onboarding the new tool that was being developed we had to work with tight deadlines of delivery for results' calculations, as there was a combined effort between sites as separated as Montreal, Singapore, and Geneva, so to ensure that any of the sites will not miss a deadline due to interdependencies, we had to make sure that each of the requirements was sent on the dot.
 
 ## Team-leading
-Over the past 10 years, I have been able to give someone's best and help them grow to their best potential, which has allowed me to be a successful manager: bringing the best out of others and helping them accomplish the best possible results. When I arrived as Regional Manager to Amman, the team was demotivated, processes were not being followed and there was a disconnection in the way each of the team members was doing their job, making any collaboration almost impossible. I established weekly One-On-One meetings with all the team for the first two months (to address any concerns, needs, and support during the process of moving everyone into one system) and team meetings every month in which the team could discuss jointly how to solve any gaps in their workload.
+Over the past 10 years, I have been able to give someone's best and help them grow to their best potential, which has allowed me to be a successful manager: bringing the best out of others and helping them accomplish the best possible results. When I arrived in Amman as Regional Manager, the team was demotivated, processes weren't being followed, and there was a disconnect between how each member of the team did his or her job, which made collaboration almost impossible. During the first two months, I established weekly One-On-One meetings with each team member (to address any concerns or needs that may arise during the journey to one system) and weekly team meetings at which the team could discuss ways to solve any gaps in their workload.
+
 
 <!--
 NEEDED CONCRETE EXAMPLE ON LEADERSHIP

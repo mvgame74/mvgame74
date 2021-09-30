@@ -1,10 +1,8 @@
 ### Hi there, I'm Maria :raising_hand_woman:👋
 - 😄 Pronouns: she/her
-- 🌱 After completing Makers Academy's Bootcamp course, I am currently job searching for opportunities as a junior software developer.
+- 🌱 After completing the Makers Academy  Bootcamp, I am seeking opportunities as a junior software developer.
 
-I became curious about software development in 2001 when I studied at a Bootcamp in Spain (Fycsa, an Alcatel subsidiary), based on C, HTML, SQL, Javascript, and a bit of Java, which launched my career in Madrid.
-
-As soon as I arrived in the UK, I realised this former training had already become obsolete, so after a stint in retail, I decided to begin my career again in software development because I liked the feeling of solving a "puzzle" every day.
+I became curious about software development in 2001 when I studied at a Bootcamp in Spain (Fycsa, an Alcatel subsidiary), based on C, HTML, SQL, Javascript, and a bit of Java, which launched my career in Madrid. As soon as I arrived in the UK, I realised this former training had already become obsolete, so after a stint in retail, I decided to begin my career again in software development because I liked the feeling of solving a "puzzle" every day.
 
 I have a wide range of transferrable skills that I can apply and continue developing for any future project, based on my previous work experience in the airline industry, management, and retail.
 
@@ -19,6 +17,7 @@ I have a wide range of transferrable skills that I can apply and continue develo
 [Contact](#Contact)
 
 </div>
+
 # Projects
 
 | Project       | Description                  | Technologies   |
@@ -39,16 +38,16 @@ In my experience with Makers, I have faced new challenges not just with coding, 
 Programming appeals to me because I like learning new things, being challenged, and trying to understand how things work and what they can do. Through my training during these times, I learned to be adaptable to all circumstances, to work independently, and to use my skills to find solutions and investigate on my own.
 
 ## Delivery
-I am accountable for every task I undertake, and I do my best at it. We had very strict deadlines for payments at IATA, which left very little room for error, and I was responsible for ensuring that all payments were made on time even when working with systems. 
+I am accountable for every task I undertake, and I do my best at it. I had very strict deadlines for payments at IATA, which left very little room for error, and I was responsible for ensuring that all payments were made on time. 
 
-Also during the process of onboarding the new tool that was being developed we had to work with tight deadlines of delivery for results' calculations, as there was a combined effort between sites as separated as Montreal, Singapore, and Geneva, so to ensure that any of the sites will not miss a deadline due to interdependencies, we had to make sure that each of the requirements was sent on the dot.
+Also during the process of onboarding the new tool that was being developed we had to work with tight deadlines of delivery for results' calculations, as there was a combined effort between sites as separated as Montreal, Singapore, and Geneva, so to ensure that any of the sites will not miss a deadline due to interdependencies, we had to make sure that each of the requirements was sent on time.
 
-## Team-leading
-Over the past 10 years, I have been able to give someone's best and help them grow to their best potential, which has allowed me to be a successful manager: bringing the best out of others and helping them accomplish the best possible results. When I arrived in Amman as Regional Manager, the team was demotivated, processes weren't being followed, and there was a disconnect between how each member of the team did his or her job, which made collaboration almost impossible. During the first two months, I established weekly One-On-One meetings with each team member (to address any concerns or needs that may arise during the journey to one system) and weekly team meetings at which the team could discuss ways to solve any gaps in their workload.
+## Team-player
 
 
 <!--
-NEEDED CONCRETE EXAMPLE ON LEADERSHIP
+## Team-leading
+Over the past 10 years, I have been able to give someone's best and help them grow to their best potential, which has allowed me to be a successful manager: bringing the best out of others and helping them accomplish the best possible results. When I arrived in Amman as Regional Manager, the team was demotivated, processes weren't being followed, and there was a disconnect between how each member of the team did his or her job, which made collaboration almost impossible. During the first two months, I established weekly One-On-One meetings with each team member (to address any concerns or needs that may arise during the journey to one system) and weekly team meetings at which the team could discuss ways to solve any gaps in their workload.
 -->
 
 ![](https://img.shields.io/badge/Code-TDD-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -90,7 +89,8 @@ Keen hiker, love to go outdoors to clear my head when I spend too much time in f
 <img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> Codewars: [mvgame](https://www.codewars.com/users/mvgame)
 
 <img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> Email: mvalerogonzalez@gmail.com
-
+ 
+ [mvgame74](https://github.com/mvgame74)
 
 📰 My full CV [here](./CV/Maria_ValeroGonzalez_CV_Sept2021_COMPLETE.pdf)
 <!--

@@ -89,8 +89,6 @@ Keen hiker, love to go outdoors to clear my head when I spend too much time in f
 <img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> Codewars: [mvgame](https://www.codewars.com/users/mvgame)
 
 <img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> Email: mvalerogonzalez@gmail.com
- 
- [mvgame74](https://github.com/mvgame74)
 
 📰 My full CV [here](./CV/Maria_ValeroGonzalez_CV_Sept2021_COMPLETE.pdf)
 <!--

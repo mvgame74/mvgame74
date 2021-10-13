@@ -41,11 +41,11 @@ Programming appeals to me because I like learning new things, being challenged, 
 I am accountable for every task I undertake, and I do my best at it. I had very strict deadlines for payments at IATA, which left very little room for error, and I was responsible for ensuring that all payments were made on time. 
 
 Also during the process of onboarding the new tool that was being developed we had to work with tight deadlines of delivery for results' calculations, as there was a combined effort between sites as separated as Montreal, Singapore, and Geneva, so to ensure that any of the sites will not miss a deadline due to interdependencies, we had to make sure that each of the requirements was sent on time.
-<!--
+
 ## Team-player
+Having worked in different countries with people from very diverse backgrounds, I have seen how communication and collaboration ensure successful results: on the deployment of the worldwide tool in IATA we had teams collaborating in five countries with very different timezones, so communication and being reliable on deliverables was essential.
 
-
-
+<!--
 ## Team-leading
 Over the past 10 years, I have been able to give someone's best and help them grow to their best potential, which has allowed me to be a successful manager: bringing the best out of others and helping them accomplish the best possible results. When I arrived in Amman as Regional Manager, the team was demotivated, processes weren't being followed, and there was a disconnect between how each member of the team did his or her job, which made collaboration almost impossible. During the first two months, I established weekly One-On-One meetings with each team member (to address any concerns or needs that may arise during the journey to one system) and weekly team meetings at which the team could discuss ways to solve any gaps in their workload.
 -->

@@ -66,16 +66,15 @@ Over the past 10 years, I have been able to give someone's best and help them gr
 # Education
 
 ### Makers (March 2021 - July 2021)
-OOP, TDD, MVC, Ruby, Rails, Javascript, Node.js, React, PostgreSQL, MongoDb, Rspec, Jasmine,HTML, CSS. 
-As the training we received at Makers was completely online, but still using Zoom for meetings, workshops and pair-coding, I can adapt to working on remote, though I am happy to work with others in person too.
+As the training we received at Makers was completely online, but still using Zoom for meetings, workshops and pair-coding, I can adapt to working on remote, though I am happy to work with others in person too. OOP, TDD, MVC, Ruby, Rails, Javascript, Node.js, React, PostgreSQL, MongoDb, Rspec, Jasmine,HTML, CSS. 
 
 ### Fycsa (2001)
-Html, Java, Javascript, SQL
+Bootcamp in Spain based on C, Html, Java, Javascript, SQL
 
-### Colex (1998-1999)
+### Colex 
 Law Practice Postgraduate: Civil, Criminal, Taxes, Administrative
 
-### Universidad Complutense de Madrid (1992-1998)
+### Universidad Complutense de Madrid 
 Law Graduate
 
 # Interests

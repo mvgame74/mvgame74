@@ -24,7 +24,7 @@ I have a wide range of transferrable skills that I can apply and continue develo
 |--|--|--|
 | [Hang-Git](https://github.com/cms718/hang-git) | My final project at Makers. Hang-Git is a game designed to help students learn Git commands by playing Hangman. | React, MondoDb, CircleCI, Heroku, React testing |
 | [Bank Tech Test](https://github.com/mvgame74/Bank-tech-test) | A simple banking program I made in order to practice OOP, TDD, and programming fluency. | Javascript, Jasmine |
-| [Python Bot](https://github.com/mvgame74/python_bot) | Small Bot exercise to make a bot that could send info and communicate through Telegram  | Python |
+| [FizzBuzz in Python ](https://github.com/mvgame74/FizzBuzz_python) | The classic TDD exercise with Python and Pytest  | Python |
 
 
 # Skills 
@@ -92,6 +92,7 @@ Keen hiker, love to go outdoors to clear my head when I spend too much time in f
 📰 My full CV [here](./CV/Maria_ValeroGonzalez_CV_Sept2021_COMPLETE.pdf)
 <!--
 **mvgame74/mvgame74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

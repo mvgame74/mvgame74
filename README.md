@@ -2,7 +2,7 @@
 - 😄 Pronouns: she/her
 - 🌱 After completing the Makers Academy  Bootcamp, I am seeking opportunities as a junior software developer.
 
-I became curious about software development in 2001 when I studied at a Bootcamp in Spain (Fycsa, an Alcatel subsidiary), based on C, HTML, SQL, Javascript, and a bit of Java, which launched my career in Madrid. As soon as I arrived in the UK, I realised this former training had already become obsolete, so after a stint in retail, I decided to begin my career again in software development because I liked the feeling of solving a "puzzle" every day.
+I became curious about software development in 2001 when I studied at a Bootcamp in Spain (Fycsa, an Alcatel subsidiary), based on C, HTML, SQL, Javascript, and a bit of Java, which launched my career in Madrid. As I arrived in the UK, I realised my former training had already become obsolete, so after a stint in retail, I decided to begin my career again in software development because I liked the feeling of solving a "puzzle" every day.
 
 I have a wide range of transferrable skills that I can apply and continue developing for any future project, based on my previous work experience in the airline industry, management, and retail.
 

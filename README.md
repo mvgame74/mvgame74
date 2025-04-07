@@ -1,6 +1,6 @@
 ### Hi there, I'm Maria :raising_hand_woman:👋
 - 😄 Pronouns: she/her
-- 🌱 After completing the Makers Academy  Bootcamp, I am seeking opportunities as a data engineer.
+- 🌱 After completing the Makers Academy  Bootcamp for software development and with three years of experience in data engineering in consulting, I am seeking opportunities as a data engineer.
 
 Data Engineer with 3 years of experience in building scalable data pipelines and transforming raw data into actionable insights. Passionate about open-source contributions and real-time data processing.
 
